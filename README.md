@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Pratiksha Anand</h1>
+<h1 align="center">Hi 👋,Lenin dallas L</h1>
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) 
 

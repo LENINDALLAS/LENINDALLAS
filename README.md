@@ -1,18 +1,10 @@
-### Hi there 👋
-
-
-**LENINDALLAS/LENINDALLAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 
 
 <h1 align="center">Hi 👋,Lenin dallas L</h1>
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) 
 
-- 🔭 I’m currently working on ... API
+- 🔭 I’m currently working on  API
 - 🌱 I’m currently learning JS
 - 📫 How to reach me *lenindallas.ld@gmail.com*
 

@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
+
 **LENINDALLAS/LENINDALLAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<h1 align="center">Hi 👋, I'm Pratiksha Anand</h1>
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) 
+
+- 🔭 I’m currently working on ... API
+- 🌱 I’m currently learning JS
+- 📫 How to reach me *lenindallas.ld@gmail.com*
+
+<h2> My GitHub Stats </h2>
+
+<p align="left"> <a href="https://github.com/LENINDALLAS"><img src="https://github-profile-trophy.vercel.app/?username=lenindallas&theme=onedark" alt="lenindallas" /></a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenindallas&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="lenindallas" /></p>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lenindallas&show_icons=true&count_private=true&&theme=highcontrast)  
+
+ <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lenindallas&theme=highcontrast" alt="lenindallas" /></span>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lenindallas&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/lenindallas)  
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
+

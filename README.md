@@ -1,8 +1,6 @@
 
 
-<h1 align="center">Hi 👋,Lenin dallas L</h1>
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) 
+<h1 align="center">Hi 👋,Lenin dallas L</h1> 
 
 - 🔭 I’m currently working on  API
 - 🌱 I’m currently learning JS

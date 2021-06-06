@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on web desiging(Product engineering)  
 - 🌱 I’m currently learning Database(Express, Mongoose, Mongodb)
-- 📫 How to reach me *lenindallas.ld@gmail.com*
+- 📫 How to reach me * lenindallas.ld@gmail.com *
 
 <h2> My GitHub Stats </h2>
 

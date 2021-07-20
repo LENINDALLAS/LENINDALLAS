@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋,Lenin dallas L</h1> 
 
 - 🔭 I’m currently working on web desiging(Product engineering)  
-- 🌱 I’m currently learning Database(Express, Mongoose, Mongodb)
+- 🌱 I’m currently learning Database(Express, Mongoose, Mongodb), React JS
 - 📫 How to reach me * lenindallas.ld@gmail.com *
 
 <h2> My GitHub Stats </h2>

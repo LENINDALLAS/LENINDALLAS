@@ -31,7 +31,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenindallas&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="lenindallas" /></p>
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lenindallas&show_icons=true&count_private=true&&theme=highcontrast)  
 
  <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lenindallas&theme=highcontrast" alt="lenindallas" /></span>

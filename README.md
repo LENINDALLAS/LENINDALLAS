@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋,Lenin dallas L</h1> 
+<h1 align="center">Hi 👋 from Lenin dallas L</h1> 
 
 - 🔭 I’m currently working on web desiging(Product engineering)  
 - 🌱 I’m currently learning Database(Express, Mongoose, Mongodb), React JS

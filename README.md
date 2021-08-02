@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋 from Lenin dallas L</h1> 
 
-- 🔭 I’m currently working on web desiging(Product engineering)  
+- 🔭 I’m currently working on web designing(Product engineering)  
 - 🌱 I’m currently learning Database(Express, Mongoose, Mongodb), React JS
 - 📫 How to reach me * lenindallas.ld@gmail.com *
 

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 from Lenin dallas L</h1> 
 
 - 🔭 I’m currently working on web designing(Product engineering)  
-- 🌱 I’m currently learning Electron Js
+- 🌱 I’m currently learning Electron js
 - 📫 How to reach me * lenindallas.ld@gmail.com *
 
 

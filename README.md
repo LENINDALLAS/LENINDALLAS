@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋 from Lenin dallas L</h1> 
 
-- 🔭 I’m currently working on web designing(Product engineering)  
-- 🌱 I’m currently working on React js and node js
+- 🔭 I’m currently working on web development(Product engineering)  
+- 🌱 I’m currently working on React js and node js, n8n.io
 - 📫 How to reach me * lenindallas.ld@gmail.com *
 
 
